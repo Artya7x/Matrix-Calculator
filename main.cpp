@@ -11,7 +11,7 @@ int main (){
 		for(int i=0;i<120;i++){
 			cout<<(char)95;
 		}
-		cout<<endl<<endl<<"\t\t\t\t\t\tMATRIC CALCULATOR"<<endl<<endl;
+		cout<<endl<<endl<<"\t\t\t\t\t\tMATRIX CALCULATOR"<<endl<<endl;
 		for(int i=0;i<120;i++){
 			cout<<(char)95;
 		}
