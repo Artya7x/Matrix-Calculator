@@ -5,4 +5,4 @@ This program has 5 options:
 - Matrix addition
 - Matrix Subtraction
 - Matrix Multiplication
-- Inverse
+- Matrix Inverse
