@@ -1,5 +1,5 @@
 # Matrix-Calculator
-C++-based console application based on Object-Oriented Programming. The program takes two or one matrices from the user and applies user-requested operations.
+C++ based console application based on Object-Oriented Programming. The program takes two or one matrices from the user and applies user-requested operations.
 # Operations
 This program has 4 options:
 - Matrix addition
